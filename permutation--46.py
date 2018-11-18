@@ -26,23 +26,20 @@ def permute(nums):
     return DP[-1]
     """
     res = []
-    used = [False for i in range(len(nums))]
-    backtracking(res, used, [], nums)
+    backtracking(res,  [], nums)
     return res
 
-def backtracking(res, used, tmp, nums):
+def backtracking(res, tmp, nums):
     if len(tmp) == len(nums):
         res.append(tmp.copy())
     else:
-        for i in range(len(nums)):
-            if used[i] == False:
-                tmp.append(nums[i])
-                used[i] = True
-            else:
+        for i in range(0,len(nums)):
+            if nums[i] in tmp:
                 continue
-            backtracking(res, used, tmp, nums)
+            else:
+                tmp.append(nums[i])
+            backtracking(res, tmp,nums)
             tmp.pop()
-            used[i] = False
 
 
 s = permute([1,2,3])
