@@ -6,7 +6,7 @@ class Solution:
         self.backtrack(candidates, ret, temp, target, 0)
         return ret
 
-    def backtrack(self, nums, ret, temp, target, ind):
+    def backtrack(self, nums, ret, temp, target,ind):
         if target == 0:
             ret.append(temp.copy())
         else:
