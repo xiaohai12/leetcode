@@ -22,3 +22,4 @@ class Solution(object):
             slow = slow.next
         slow.next = slow.next.next
         return start.next
+    
