@@ -28,4 +28,4 @@ class Solution(object):
             else:
                 pre = pre.next
             cur = cur.next
-        return dummy.next 
+        return dummy.next
