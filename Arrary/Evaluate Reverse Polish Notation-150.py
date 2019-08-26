@@ -29,4 +29,4 @@ class Solution(object):
             return int(num1) * int(num2)
         elif sig == '/':
             div = int(num1) / int(num2)
-            return int(div) 
+            return int(div)
