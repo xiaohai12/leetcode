@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="6eb8f3c9-4c14-485e-a071-209669a0e6ce" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BFS/ourse Schedule-207.py" beforeDir="false" afterPath="$PROJECT_DIR$/DFS/ourse Schedule-207.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BFS/umber of Islands-200.py" beforeDir="false" afterPath="$PROJECT_DIR$/DFS/umber of Islands-200.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +66,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ourse Schedule-207">
+  <component name="RunManager" selected="Python.House Robber II-213">
     <configuration name="Bitwise AND of Numbers Range-201" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -87,7 +89,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Word Break-139" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="House Robber II-213" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -95,12 +97,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/string" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DFS" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/string/Word Break-139.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DFS/House Robber II-213.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -109,7 +111,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Word Ladder-127" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Minimum Size Subarray Sum-209" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -117,12 +119,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tree" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Arrary" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tree/Word Ladder-127.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Arrary/Minimum Size Subarray Sum-209.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -176,19 +178,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Word Ladder-127" />
-      <item itemvalue="Python.Word Break-139" />
       <item itemvalue="Python.test" />
       <item itemvalue="Python.Bitwise AND of Numbers Range-201" />
       <item itemvalue="Python.ourse Schedule-207" />
+      <item itemvalue="Python.Minimum Size Subarray Sum-209" />
+      <item itemvalue="Python.House Robber II-213" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.House Robber II-213" />
+        <item itemvalue="Python.Minimum Size Subarray Sum-209" />
         <item itemvalue="Python.ourse Schedule-207" />
         <item itemvalue="Python.Bitwise AND of Numbers Range-201" />
         <item itemvalue="Python.test" />
-        <item itemvalue="Python.Word Break-139" />
-        <item itemvalue="Python.Word Ladder-127" />
       </list>
     </recent_temporary>
   </component>
@@ -234,7 +236,8 @@
       <workItem from="1566148742947" duration="69000" />
       <workItem from="1566850288316" duration="1549000" />
       <workItem from="1566853629087" duration="379000" />
-      <workItem from="1566928216597" duration="2388000" />
+      <workItem from="1566928216597" duration="3003000" />
+      <workItem from="1567016902072" duration="6804000" />
     </task>
     <servers />
   </component>
@@ -308,9 +311,19 @@
           <option name="timeStamp" value="39" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/BFS/ourse Schedule-207.py</url>
+          <url>file://$PROJECT_DIR$/DFS/ourse Schedule-207.py</url>
           <line>36</line>
           <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Arrary/Minimum Size Subarray Sum-209.py</url>
+          <line>48</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DFS/House Robber II-213.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="43" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
@@ -324,9 +337,11 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/leetcode$remove_duplicated_sorted_array_80.coverage" NAME="remove-duplicated-sorted-array-80 Coverage Results" MODIFIED="1560699691111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Arrary" />
+    <SUITE FILE_PATH="coverage/leetcode$House_Robber_II_213.coverage" NAME="House Robber II-213 Coverage Results" MODIFIED="1567028495345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DFS" />
     <SUITE FILE_PATH="coverage/leetcode$bytebeats.coverage" NAME="bytebeats Coverage Results" MODIFIED="1563699539799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interview" />
     <SUITE FILE_PATH="coverage/leetcode$Word_Break_139.coverage" NAME="Word Break-139 Coverage Results" MODIFIED="1565628077628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/string" />
     <SUITE FILE_PATH="coverage/leetcode$gas_station__134.coverage" NAME="gas-station--134 Coverage Results" MODIFIED="1559852177820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$Minimum_Size_Subarray_Sum_209.coverage" NAME="Minimum Size Subarray Sum-209 Coverage Results" MODIFIED="1567017006013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Arrary" />
     <SUITE FILE_PATH="coverage/leetcode$Word_Ladder_127.coverage" NAME="Word Ladder-127 Coverage Results" MODIFIED="1565473081918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree" />
     <SUITE FILE_PATH="coverage/leetcode$ourse_Schedule_207.coverage" NAME="ourse Schedule-207 Coverage Results" MODIFIED="1566934621320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BFS" />
     <SUITE FILE_PATH="coverage/leetcode$subset_78.coverage" NAME="subset-78 Coverage Results" MODIFIED="1560619793928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Arrary" />
