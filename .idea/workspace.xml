@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6eb8f3c9-4c14-485e-a071-209669a0e6ce" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/number of 1bits-191.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/power of 2-231.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reverse-bits-190.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Happy-number-202.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string/Isomorphic Strings-205.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -51,6 +50,9 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/string" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Arrary" />
     </key>
@@ -241,7 +243,7 @@
       <workItem from="1567016902072" duration="6804000" />
       <workItem from="1567349657612" duration="1174000" />
       <workItem from="1569317901365" duration="10000" />
-      <workItem from="1569354813148" duration="2251000" />
+      <workItem from="1569354813148" duration="4571000" />
     </task>
     <servers />
   </component>
