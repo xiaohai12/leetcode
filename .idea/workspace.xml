@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6eb8f3c9-4c14-485e-a071-209669a0e6ce" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/number of 1bits-191.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/power of 2-231.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reverse-bits-190.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BFS/ourse Schedule-207.py" beforeDir="false" afterPath="$PROJECT_DIR$/DFS/ourse Schedule-207.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BFS/umber of Islands-200.py" beforeDir="false" afterPath="$PROJECT_DIR$/DFS/umber of Islands-200.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -66,7 +67,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.House Robber II-213">
+  <component name="RunManager" selected="Python.Combination Sum III-216">
     <configuration name="Bitwise AND of Numbers Range-201" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -81,6 +82,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Arrary/Bitwise AND of Numbers Range-201.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Combination Sum III-216" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DFS" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DFS/Combination Sum III-216.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,42 +178,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="leetcode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Python.test" />
       <item itemvalue="Python.Bitwise AND of Numbers Range-201" />
       <item itemvalue="Python.ourse Schedule-207" />
       <item itemvalue="Python.Minimum Size Subarray Sum-209" />
       <item itemvalue="Python.House Robber II-213" />
+      <item itemvalue="Python.Combination Sum III-216" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Combination Sum III-216" />
         <item itemvalue="Python.House Robber II-213" />
         <item itemvalue="Python.Minimum Size Subarray Sum-209" />
         <item itemvalue="Python.ourse Schedule-207" />
         <item itemvalue="Python.Bitwise AND of Numbers Range-201" />
-        <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
@@ -238,6 +239,9 @@
       <workItem from="1566853629087" duration="379000" />
       <workItem from="1566928216597" duration="3003000" />
       <workItem from="1567016902072" duration="6804000" />
+      <workItem from="1567349657612" duration="1174000" />
+      <workItem from="1569317901365" duration="10000" />
+      <workItem from="1569354813148" duration="2251000" />
     </task>
     <servers />
   </component>
@@ -325,6 +329,11 @@
           <line>32</line>
           <option name="timeStamp" value="43" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DFS/Combination Sum III-216.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -337,6 +346,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/leetcode$remove_duplicated_sorted_array_80.coverage" NAME="remove-duplicated-sorted-array-80 Coverage Results" MODIFIED="1560699691111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Arrary" />
+    <SUITE FILE_PATH="coverage/leetcode$Combination_Sum_III_216.coverage" NAME="Combination Sum III-216 Coverage Results" MODIFIED="1567349783627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DFS" />
     <SUITE FILE_PATH="coverage/leetcode$House_Robber_II_213.coverage" NAME="House Robber II-213 Coverage Results" MODIFIED="1567028495345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DFS" />
     <SUITE FILE_PATH="coverage/leetcode$bytebeats.coverage" NAME="bytebeats Coverage Results" MODIFIED="1563699539799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interview" />
     <SUITE FILE_PATH="coverage/leetcode$Word_Break_139.coverage" NAME="Word Break-139 Coverage Results" MODIFIED="1565628077628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/string" />
