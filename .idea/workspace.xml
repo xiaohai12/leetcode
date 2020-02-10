@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6eb8f3c9-4c14-485e-a071-209669a0e6ce" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrary/Pascal's Triangle-118.py" beforeDir="false" afterPath="$PROJECT_DIR$/Google/Pascal's Triangle-118.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,12 +39,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-2332" />
-    <option name="y" value="3" />
-    <option name="width" value="1939" />
-    <option name="height" value="1059" />
-  </component>
   <component name="ProjectId" id="1OdUxaLsEGYhGLfZwTVKytHHmxq" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -60,12 +55,12 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Arrary" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Google" />
       <recent name="$PROJECT_DIR$/string" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Arrary" />
     </key>
   </component>
   <component name="RunManager" selected="Python.1021">
@@ -258,6 +253,10 @@
       <workItem from="1580310949344" duration="3802000" />
       <workItem from="1580328387140" duration="2793000" />
       <workItem from="1580399207196" duration="2126000" />
+      <workItem from="1580933580230" duration="3051000" />
+      <workItem from="1581240418206" duration="8912000" />
+      <workItem from="1581269374651" duration="633000" />
+      <workItem from="1581367222429" duration="608000" />
     </task>
     <servers />
   </component>
