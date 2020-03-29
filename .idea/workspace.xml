@@ -3,6 +3,44 @@
   <component name="ChangeListManager">
     <list default="true" id="6eb8f3c9-4c14-485e-a071-209669a0e6ce" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrary/3sum-15.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrary/4Sum-18.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrary/Bitwise AND of Numbers Range-201.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrary/Coin Change-322.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrary/Combinations-77.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrary/Construct_Binary_tree-105.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrary/Evaluate Reverse Polish Notation-150.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrary/Gray Code-89.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrary/Longest Word in Dictionary-720.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrary/Maximun_product_subarray-152.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrary/Minimum Size Subarray Sum-209.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrary/Palindrome Partitioning-131.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrary/Pascal's Triangle_II.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrary/Repeated DNA Sequences-187.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrary/Rotate_array--189.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrary/Single Number II-137.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrary/Trie-208.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrary/combinationSum-39.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrary/combinationSum2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrary/construct_binary_tree2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrary/find_min_rotated_array-153.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrary/find_min_rotated_array2-154.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrary/find_peak_element-162.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrary/house_robber-198.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrary/permutation-46.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrary/permutation2-47.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrary/remove-duplicated-sorted-array-80.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrary/search_in_rotated_array-33.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrary/search_in_rotated_array2-80.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrary/single_number-136.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrary/stock_profit-121.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrary/stock_profit_II-122.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrary/subset-78.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrary/subset2-90.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrary/triangle-120.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrary/two-sum-1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrary/two-sum-sorted-167.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrary/word_search-79.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -266,7 +304,17 @@
       <workItem from="1583090746450" duration="1446000" />
       <workItem from="1583265456627" duration="1466000" />
       <workItem from="1583336990097" duration="411000" />
-      <workItem from="1583579951060" duration="3812000" />
+      <workItem from="1583579951060" duration="8694000" />
+      <workItem from="1583794034808" duration="24000" />
+      <workItem from="1583956498191" duration="4420000" />
+      <workItem from="1584135853513" duration="2312000" />
+      <workItem from="1584193735942" duration="1835000" />
+      <workItem from="1584295015819" duration="2300000" />
+      <workItem from="1584391981216" duration="1845000" />
+      <workItem from="1584889226615" duration="5009000" />
+      <workItem from="1584971289808" duration="4584000" />
+      <workItem from="1585050405757" duration="2482000" />
+      <workItem from="1585231879949" duration="2565000" />
     </task>
     <servers />
   </component>
@@ -346,21 +394,6 @@
           <option name="timeStamp" value="23" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Arrary/subset-78.py</url>
-          <line>39</line>
-          <option name="timeStamp" value="33" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Arrary/remove-duplicated-sorted-array-80.py</url>
-          <line>13</line>
-          <option name="timeStamp" value="35" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Arrary/remove-duplicated-sorted-array-80.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="36" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/tree/Word Ladder-127.py</url>
           <line>39</line>
           <option name="timeStamp" value="37" />
@@ -379,11 +412,6 @@
           <url>file://$PROJECT_DIR$/DFS/ourse Schedule-207.py</url>
           <line>36</line>
           <option name="timeStamp" value="40" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Arrary/Minimum Size Subarray Sum-209.py</url>
-          <line>48</line>
-          <option name="timeStamp" value="41" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/DFS/House Robber II-213.py</url>
